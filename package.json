@@ -22,6 +22,9 @@
     "type": "git",
     "url": "https://github.com/themesberg/volt-react-dashboard"
   },
+  "resolutions": {
+    "react-scripts/postcss-preset-env/postcss-custom-properties": "^10.0.0"
+  },
   "version": "1.0.1",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -49,7 +52,8 @@
     "react-scripts": "3.4.3",
     "react-transition-group": "^4.4.1",
     "sass": "^1.50.0",
-    "simplebar-react": "^2.3.0"
+    "simplebar-react": "^2.3.0",
+    "postcss-custom-properties": "^10.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
